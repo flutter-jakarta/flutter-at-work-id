@@ -85,6 +85,10 @@ Please add yours with the following format:
 
 ### W
 
+#### Wahyoo
+
+- Wahyoo Warung - Full - [Android](https://play.google.com/store/apps/details?id=com.wahyoo_mobile)
+
 ### X
 
 ### Y
