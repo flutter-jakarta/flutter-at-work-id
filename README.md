@@ -43,17 +43,25 @@ Please add yours with the following format:
 
 ### B
 
+- Beceer - Full - [Android](https://play.google.com/store/apps/details?id=com.gardanastudio.beceer)
+
 ### C
 
 ### D
 
 ### E
 
+- EndCorona - Full - [Android](https://play.google.com/store/apps/details?id=id.endcorona.app) [iOS](https://apps.apple.com/id/app/endcorona/id1509293417) [web](https://endcorona.id/)
+
 ### F
 
 ### G
 
 ### H
+
+- Home Credit GO! - Full - [Android](https://play.google.com/store/apps/details?id=id.co.homecredit.tippers)
+
+- Home Credit Mitra - Full - [Android](https://play.google.com/store/apps/details?id=id.co.homecredit.pp)
 
 ### I
 
@@ -63,6 +71,8 @@ Please add yours with the following format:
 
 ### L
 
+- Langganan - Full - [Android](https://play.google.com/store/apps/details?id=co.id.langganan.app) [iOS](https://apps.apple.com/app/apple-store/id1510374993)
+
 ### M
 
 ### N
@@ -70,6 +80,8 @@ Please add yours with the following format:
 ### O
 
 ### P
+
+- PAYFAZZ - Full - [Android](https://play.google.com/store/apps/details?id=com.payfazz.android)
 
 ### Q
 
@@ -79,6 +91,10 @@ Please add yours with the following format:
 
 ### T
 
+- Texo - Full - [Android](https://play.google.com/store/apps/details?id=id.texo.ewallet)
+
+- Tuupai - Full - [Android](https://play.google.com/store/apps/details?id=com.tuupai.member) [iOS](https://apps.apple.com/us/app/tuupai/id1455707146)
+
 ### U
 
 ### V
@@ -87,7 +103,7 @@ Please add yours with the following format:
 
 #### Wahyoo
 
-- Wahyoo Warung - Full - [Android](https://play.google.com/store/apps/details?id=com.wahyoo_mobile)
+- Wahyoo - Full - [Android](https://play.google.com/store/apps/details?id=com.wahyoo_mobile)
 
 ### X
 
